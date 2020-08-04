@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ex/crc16/crc16.srcs/sources_1/new/CRC16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CRC16
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ex/crc16/crc16.srcs/sources_1/new/Proof.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Proof
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ex/crc16/crc16.srcs/sim_1/new/TestBench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TestBench
